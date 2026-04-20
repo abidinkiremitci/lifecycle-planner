@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **Focus:** Build strength off Cycle 1 test maxes while maintaining a moderate caloric deficit; execute the carry-over VO₂max rowing session from Week 4; continue HSPU and double-under skill progressions.
+- **Focus:** Build strength off Cycle 1 test maxes while maintaining a moderate caloric deficit; execute the carry-over VO₂max rowing session from Week 4; continue HSPU skill progressions.
 - **Duration:** 4 weeks (2026-04-14 to 2026-05-10)
 - **Days per week:** 5
   - Mon / Wed / Fri: Functional fitness (strength + metcon + skill/core)
@@ -29,7 +29,6 @@
 - Increase Back Squat to a new 5 RM of ≥120 kg (from 115 kg).
 - Improve all three cycle benchmark times (Threshold, Engine, Finisher).
 - Execute the carried-over VO₂max rowing session (Week 1 Tuesday).
-- Build double-under consistency to unbroken sets of 30+.
 - Progress toward freestanding HSPU: target a held wall-balance of 5+ s.
 - **Rowing:** Build aerobic base toward 10 km under 50 min (target split ≤2:30/500 m).
 - **Running:** Build running base; target 5 km in under 27 min (~5:20/km) by Week 4.
