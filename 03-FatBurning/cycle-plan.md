@@ -4,12 +4,13 @@
 
 - **Focus:** Execute a sustained deficit while maintaining strength ceiling and shifting conditioning emphasis toward high-metabolic-output metcons; prioritize body composition improvement (fat loss) while preserving lean mass through consistent protein intake and moderate load retention.
 - **Duration:** 6 weeks (2026-05-11 to 2026-06-19)
-- **Days per week:** 5
+- **Days per week:** 5 (+ optional recovery LIIT on Thu)
   - Mon / Wed / Fri: 
     - (Fat burner) LIIT(Rope jump, row, easy running, easy METCON etc)
     - (Main) Functional fitness (strength + metcon + skill/core)
   - Tue: Indoor rowing (30–60 min, goal: 10 km under 50 min)
-  - Thu: Running (30–60 min, goal: 10 km under 50 min)
+  - Thu: Recovery LIIT (optional: bike commute if weather is good, or 20 min light row)
+  - Sat or Sun: Running (30–60 min, goal: 10 km under 50 min)
 
 ### Goals
 - Maintain Front Squat, Deadlift, and Back Squat 5 RM loads within ±2 kg of Cycle 2 baselines (show strength resilience under deficit).
@@ -24,7 +25,7 @@
 
 | Week | Dates | Intent | Load % | Metcon Target | Rowing | Running |
 |---|---|---|---|---|---|---|
-| 1 | 2026-05-11 | **Reactivation @ Deficit** — establish deficit fuelling baseline; light loading; short metcons | ~55–62% | 15–18 min | Easy 4.5 km @ ≤2:35/500 m | Easy 5 km @ ~6:00/km |
+| 1 | 2026-05-11 | **Reactivation @ Deficit** — establish deficit fuelling baseline; light loading; short metcons | ~55–62% | 15–18 min | Easy 4.5 km @ ≤2:35/500 m | Easy 5 km @ ~6:00/km (Sunday) |
 | 2 | 2026-05-18 | **Build Conditioning** — increase metcon volume and intensity; moderate lifting load | ~62–68% | 18–22 min | 6 km @ ≤2:32/500 m | 5 km @ ~5:45/km |
 | 3 | 2026-05-25 | **Push Metabolic Output** — high-rep metcons, short rest, maximize calorie burn; maintain lift loading | ~68–75% | 22–26 min | 5 × 1,000 m @ ≤2:30/500 m | 7 km tempo @ ~5:20/km |
 | 4 | 2026-06-01 | **Sustain Pace** — hold intensity through mid-cycle; slight back-off on strength volume | ~65–72% | 20–25 min | 7 km @ ≤2:29/500 m | 5 km @ ~5:30/km |
@@ -35,7 +36,19 @@
 
 ## Weekly File Template
 
-See [weekly-template.md](weekly-template.md) for the week file structure. When generating a new week, read this file alongside the Week-by-Week Progression and Nutrition sections below.
+See [weekly-template.md](weekly-template.md) for the week file structure.
+
+For this cycle only, store each week in a split day-folder format:
+- `03-FatBurning/week-N/01-monday.md`
+- `03-FatBurning/week-N/02-tuesday.md`
+- `03-FatBurning/week-N/03-wednesday.md`
+- `03-FatBurning/week-N/04-thursday.md`
+- `03-FatBurning/week-N/05-friday.md`
+- `03-FatBurning/week-N/06-saturday.md`
+- `03-FatBurning/week-N/07-sunday.md`
+- `03-FatBurning/week-N/nutrition.md`
+
+When generating a new week, read this file alongside the Week-by-Week Progression and Nutrition sections below.
 
 ---
 
@@ -55,8 +68,9 @@ See [weekly-template.md](weekly-template.md) for the week file structure. When g
 | Day Type | Days | Calories | Protein | Carbs | Fat |
 |---|---|---|---|---|---|
 | Functional Fitness | Mon / Wed / Fri | ~3100 kcal | ~185 g | ~390 g | ~90 g |
-| Endurance (Row / Run) | Tue / Thu | ~2900 kcal | ~185 g | ~340 g | ~90 g |
-| Rest / Active Recovery | Sat / Sun | ~2400 kcal | ~185 g | ~210 g | ~90 g |
+| Endurance (Row / Run) | Tue / Run day (Sat or Sun) | ~2900 kcal | ~185 g | ~340 g | ~90 g |
+| Recovery LIIT (Optional) | Thu | ~2400 kcal (up to +150 if needed) | ~185 g | ~210 g | ~90 g |
+| Rest / Active Recovery | Non-training days (including one weekend day) | ~2400 kcal | ~185 g | ~210 g | ~90 g |
 
 ### Cycle Phase Adjustments
 

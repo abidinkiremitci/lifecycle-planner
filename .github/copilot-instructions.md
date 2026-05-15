@@ -8,10 +8,25 @@ Persist weekly workout plans using the following folder structure:
 	- Example: `01-BaseCycle
 	- `<no-of-cycle>`: Two-digit cycle number (e.g., 01, 02, 03, ...)
 	- `<name-of-cycle>`: Short descriptive name for the cycle (e.g., BaseCycle, Strength, OpenPrep)
-- Use a single markdown file per week: `<no-of-cycle>-<name-of-cycle>/YYYY-MM-DD(StartDate)_<week-no>.md`
-    - Example: `01-BaseCycle/2025-09-01_Week-1.md`
-	- `YYYY-MM-DD`: Start date of the week (ISO format)
-	- `<week-no>`: Week number within the cycle (e.g., Week-1, Week-2)
+- Use split day files per week.
+	- Folder format: `<no-of-cycle>-<name-of-cycle>/week-<number>/`
+	- Day file format: `<no-of-cycle>-<name-of-cycle>/week-<number>/<day-number>-<day>.md`
+	- Nutrition file format: `<no-of-cycle>-<name-of-cycle>/week-<number>/nutrition.md`
+	- Example:
+		- `03-FatBurning/week-2/01-monday.md`
+		- `03-FatBurning/week-2/02-tuesday.md`
+		- `03-FatBurning/week-2/03-wednesday.md`
+		- `03-FatBurning/week-2/04-thursday.md`
+		- `03-FatBurning/week-2/05-friday.md`
+		- `03-FatBurning/week-2/06-saturday.md`
+		- `03-FatBurning/week-2/07-sunday.md`
+		- `03-FatBurning/week-2/nutrition.md`
+
+### Legacy Cycle Exception
+
+- Cycles that were already created with one markdown file per week can keep their existing format.
+- Legacy single-file format: `<no-of-cycle>-<name-of-cycle>/YYYY-MM-DD(StartDate)_<week-no>.md`
+  - Example: `01-BaseCycle/2025-09-01_Week-1.md`
 
 Store all relevant files for each week inside the corresponding folder for tracking and future reference.
 
@@ -33,6 +48,7 @@ See [equipment.md](../equipment.md) for the full list of available equipment, un
 
 ### Weekly Training Structure
 - **Workout Days:** 5 per week — 3 functional fitness sessions + 1 indoor rowing session + 1 running session. Default schedule: Mon / Wed / Fri (functional fitness), Tue (rowing), Thu (running). Days can shift on request.
+- **03-FatBurning schedule override:** Mon / Wed / Fri (LIIT + functional fitness), Tue (rowing), Thu (optional LIIT recovery: bike commute or 20 min light row), Sat or Sun (running).
 - **Endurance Goals:**
 	- Indoor rowing: 10 km in under 50 min
 	- Running: 10 km in under 50 min
@@ -171,9 +187,46 @@ Calorie and carb adjustments per week phase are defined in the active cycle's `c
 - **Morning:** 500 ml water immediately upon waking before any nutrition
 
 ### Nutrition Notes for Weekly Plans
-When generating a weekly workout plan, append a **## Nutrition** section at the end of the file following the structure and phase adjustments defined in the active cycle's `cycle-plan.md`.
+When generating a weekly workout plan in split-file format, create a separate `nutrition.md` inside the relevant `week-<number>` folder. Follow the structure and phase adjustments defined in the active cycle's `cycle-plan.md`.
 
 ### General Principles
 - Never prescribe specific foods or meals — only macros, calories, and timing windows.
 - Anchor every recommendation to training load and cycle phase — nutrition should follow the training intent.
 - Flag when athlete feedback (fatigue, poor performance, slow recovery) suggests under-fuelling vs. over-fuelling.
+
+---
+
+## README Management
+
+### Current Week Links
+
+Whenever generating a new week or updating the current active week:
+
+1. Update the `## Current Week` section in [README.md](../README.md) with:
+   - Main week link: `[<NN>-<CycleName> - Week N](<cycle-path>/week-N)`
+   - Day-by-day links:
+     - `[Monday](<cycle-path>/week-N/01-monday.md)`
+     - `[Tuesday](<cycle-path>/week-N/02-tuesday.md)`
+     - `[Wednesday](<cycle-path>/week-N/03-wednesday.md)`
+     - `[Thursday](<cycle-path>/week-N/04-thursday.md)`
+     - `[Friday](<cycle-path>/week-N/05-friday.md)`
+     - `[Saturday](<cycle-path>/week-N/06-saturday.md)`
+     - `[Sunday](<cycle-path>/week-N/07-sunday.md)`
+   - Nutrition link: `[Nutrition](<cycle-path>/week-N/nutrition.md)`
+
+2. This ensures users can quickly jump to any day of the active training week from the README home page.
+
+Example format:
+```
+## Current Week
+
+- [03-FatBurning - Week 2](03-FatBurning/week-2)
+  - [Monday](03-FatBurning/week-2/01-monday.md)
+  - [Tuesday](03-FatBurning/week-2/02-tuesday.md)
+  - [Wednesday](03-FatBurning/week-2/03-wednesday.md)
+  - [Thursday](03-FatBurning/week-2/04-thursday.md)
+  - [Friday](03-FatBurning/week-2/05-friday.md)
+  - [Saturday](03-FatBurning/week-2/06-saturday.md)
+  - [Sunday](03-FatBurning/week-2/07-sunday.md)
+  - [Nutrition](03-FatBurning/week-2/nutrition.md)
+```

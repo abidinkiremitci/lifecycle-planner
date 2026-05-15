@@ -10,11 +10,24 @@ A Git-tracked record of training cycles built around a 5-day-per-week functional
 
 - **Mon / Wed / Fri** — Functional fitness (strength + metcon + skill/core)
 - **Tue** — Indoor rowing (goal: 10 km under 50 min)
-- **Thu** — Running (goal: 10 km under 50 min)
+- **Thu** — Optional recovery LIIT (bike commute or 20 min light row)
+- **Sat or Sun** — Running (goal: 10 km under 50 min)
 
 Each cycle has a defined focus, week-by-week load progression, and phase-adjusted nutrition targets. Weekly files are generated with GitHub Copilot using the instructions in [.github/copilot-instructions.md](.github/copilot-instructions.md).
 
 ---
+
+## Current Week
+
+- [03-FatBurning - Week 2](03-FatBurning/week-2)
+  - [Monday](03-FatBurning/week-2/01-monday.md)
+  - [Tuesday](03-FatBurning/week-2/02-tuesday.md)
+  - [Wednesday](03-FatBurning/week-2/03-wednesday.md)
+  - [Thursday](03-FatBurning/week-2/04-thursday.md)
+  - [Friday](03-FatBurning/week-2/05-friday.md)
+  - [Saturday](03-FatBurning/week-2/06-saturday.md)
+  - [Sunday](03-FatBurning/week-2/07-sunday.md)
+  - [Nutrition](03-FatBurning/week-2/nutrition.md)
 
 ## Repository Structure
 
@@ -24,10 +37,22 @@ workout-program/
 ├── equipment.md                  # Available equipment and gym space constraints
 ├── cycle-plan-template.md        # Blank template for starting a new cycle
 │
-└── 01-DefiningLimits/            # Example cycle folder (<no>-<name>)
+├── 01-DefiningLimits/            # Example legacy cycle folder (<no>-<name>)
     ├── cycle-plan.md             # Cycle overview, goals, progression, nutrition
     ├── weekly-template.md        # Week file structure used when generating weeks
-    └── 2026-03-16_Week-1.md      # Generated weekly workout file
+    └── 2026-03-16_Week-1.md      # Legacy weekly workout file format
+└── 03-FatBurning/                # Current cycle using split week files
+    ├── cycle-plan.md
+    ├── weekly-template.md
+    └── week-2/
+        ├── 01-monday.md
+        ├── 02-tuesday.md
+        ├── 03-wednesday.md
+        ├── 04-thursday.md
+        ├── 05-friday.md
+        ├── 06-saturday.md
+        ├── 07-sunday.md
+        └── nutrition.md
 ```
 
 ### Cycle Folder Naming
@@ -36,15 +61,21 @@ workout-program/
 <two-digit-number>-<CycleName>
 ```
 
-Examples: `01-DefiningLimits`, `02-StrengthBase`, `03-OpenPrep`
+Examples: `01-DefiningLimits`, `02-StrengthCut`, `03-FatBurning`
 
 ### Weekly File Naming
 
 ```
-<CycleFolder>/YYYY-MM-DD_Week-N.md
+<CycleFolder>/week-N/<day-number>-<day>.md
 ```
 
-Where `YYYY-MM-DD` is the Monday start date of that week.
+Weekly nutrition is stored separately in:
+
+```
+<CycleFolder>/week-N/nutrition.md
+```
+
+Legacy exception: older cycles can keep the single-file format `YYYY-MM-DD_Week-N.md`.
 
 ---
 
@@ -66,11 +97,11 @@ Copilot will:
 - Read `cycle-plan.md` for load targets, goals, and nutrition phase.
 - Read `weekly-template.md` for structure.
 - Read `equipment.md` for movement selection constraints.
-- Produce a complete weekly file at `YYYY-MM-DD_Week-N.md`.
+- Produce all day files in `week-N/` plus `week-N/nutrition.md`.
 
 ### Updating After a Session
 
-After training, open the weekly file and update the score/notes blocks. Add feedback at the top of the next week's file (or ask Copilot to incorporate it).
+After training, open the relevant day file and update the score/notes block. Add feedback in the next week's files (or ask Copilot to incorporate it).
 
 ---
 
@@ -112,3 +143,5 @@ See [equipment.md](equipment.md) for the full list. Key constraints:
 | # | Name | Dates | Focus |
 |---|---|---|---|
 | 01 | DefiningLimits | 2026-03-16 → 2026-04-12 | Reactivation → baseline testing (3–5 RM lifts + 10 km benchmarks) |
+| 02 | StrengthCut | 2026-04-14 → 2026-05-11 | Strength retention under cut + aerobic progression |
+| 03 | FatBurning | 2026-05-11 → 2026-06-19 | Deficit phase with higher metcon output and endurance progression |

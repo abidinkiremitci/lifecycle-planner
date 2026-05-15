@@ -1,5 +1,18 @@
 # Week N – Focus (YYYY-MM-DD to YYYY-MM-DD)
 
+## Folder Layout (Cycle 03 Only)
+- Save each week as a folder: `week-N`
+- Save day files as:
+  - `week-N/01-monday.md`
+  - `week-N/02-tuesday.md`
+  - `week-N/03-wednesday.md`
+  - `week-N/04-thursday.md`
+  - `week-N/05-friday.md`
+  - `week-N/06-saturday.md`
+  - `week-N/07-sunday.md`
+- Save weekly nutrition as: `week-N/nutrition.md`
+- Use Saturday for rest context and Sunday for the run when scheduled there.
+
 ## Weekly Overview
 - Cycle: 03-FatBurning
 - Week: N
@@ -7,7 +20,7 @@
 - Load target: ~XX%
 - Metcon target: XX–XX min
 - Focus: <short description>
-- Days: Monday (LIIT + FF), Tuesday (Row), Wednesday (LIIT + FF), Thursday (Run), Friday (LIIT + FF)
+- Days: Monday (LIIT + FF), Tuesday (Row), Wednesday (LIIT + FF), Thursday (LIIT Recovery), Friday (LIIT + FF), Saturday or Sunday (Run)
 - **Session structure (Mon/Wed/Fri):** LIIT fat-burner (15 min) → Functional fitness main (60–70 min total)
 
 ## Notes
@@ -135,24 +148,28 @@
 
 ---
 
-## Thursday — Running
+## Thursday — Recovery LIIT (Optional, 20–45 min)
 
-### Warm-up (5 min)
-- X min easy walk/jog
-- <dynamic drills: leg swings, ankle rolls, calf raises>
+### Option A — Bike Commute (Weather Good)
+- 20–45 min easy cycling total
+- Effort: Zone 1–2 (RPE 3–4), conversational breathing only
+- Cadence target: smooth spin, no hard climbs or sprints
 
-### Main Run (XX min)
-- <distance or time> @ <target pace or RPE>
-- <structure: easy zone 2 / tempo / intervals>
-- Indoor alternative: …
+### Option B — Light Indoor Row (Weather Poor)
+- 20 min easy row @ conversational pace
+- Target split: ~2:25–2:45/500 m
+- Stroke rate: 16–18 spm
+- Effort: Zone 1–2 (RPE 3–4)
 
 ### Cool-down (5 min)
-- X min easy walk
-- <stretches>
+- 2 min easy walk
+- Couch stretch 45 s/side
+- Wall calf stretch 45 s/side
 
 ### Score
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
+- Mode: Bike / Row
+- Duration: _____ min
+- Avg effort: RPE _____
 - Notes: _____
 
 ---
@@ -203,26 +220,49 @@
 
 ---
 
-## Nutrition
+## Saturday or Sunday — Running
+
+### Warm-up (5 min)
+- X min easy walk/jog
+- <dynamic drills: leg swings, ankle rolls, calf raises>
+
+### Main Run (XX min)
+- <distance or time> @ <target pace or RPE>
+- <structure: easy zone 2 / tempo / intervals>
+- Indoor alternative: …
+
+### Cool-down (5 min)
+- X min easy walk
+- <stretches>
+
+### Score
+- Distance: _____ km | Total time: _____ min _____ s
+- Avg pace: _____/km | RPE: _____
+- Notes: _____
+
+---
+
+## Nutrition File Template (`week-N/nutrition.md`)
 
 ### Weekly Focus
-<1-paragraph nutrition focus aligned with this week's phase — fat-burning cycle with deficit; reference cycle-plan.md Nutrition section>
+<1-paragraph nutrition focus aligned with this week's phase; reference cycle-plan.md Nutrition section>
 
 ### Macro Targets This Week
 
 | Day Type | Days | Calories | Protein | Carbs | Fat |
 |---|---|---|---|---|---|
 | Functional Fitness | Mon / Wed / Fri | ~XXXX kcal | ~185 g | ~XXX g | ~90 g |
-| Endurance (Row / Run) | Tue / Thu | ~XXXX kcal | ~185 g | ~XXX g | ~90 g |
-| Rest / Active Recovery | Sat / Sun | ~2400 kcal | ~185 g | ~210 g | ~90 g |
+| Endurance (Row / Run) | Tue / Run day (Sat or Sun) | ~XXXX kcal | ~185 g | ~XXX g | ~90 g |
+| Recovery LIIT (Optional) | Thu | ~2400 kcal (up to +150 if needed) | ~185 g | ~210 g | ~90 g |
+| Rest / Active Recovery | Non-training days (including one weekend day) | ~2400 kcal | ~185 g | ~210 g | ~90 g |
 
 ### Key Timing Reminders
-- **Pre-LIIT fat-burner (early morning):** Minimal or fasted — optional light carbs (banana, 50–75 g) if preferred; hydration only (500 ml water)
-- **Pre-main FF session (3–4 hours later):** 400–600 kcal with 60–80 g carbs + 30–40 g protein, low fat
-- **Post-main FF session:** 40–50 g protein + 60–80 g carbs within 45 min
+- **Pre-LIIT fat-burner (early morning):** Minimal or fasted; hydration only (500 ml water)
+- **Pre-main FF session (3-4 hours later):** 400-600 kcal with 60-80 g carbs + 30-40 g protein, low fat
+- **Post-main FF session:** 40-50 g protein + 60-80 g carbs within 45 min
 
 ### Recovery & Fat-Loss Notes
 - …
-- **Deficit reminder:** If energy or lifts feel uncharacteristically poor, verify carb intake on training days — increase by +25–30 g before cutting volume.
-- **Scale tracking:** This is a fat-loss phase — expect ~0.5–0.75 kg/week loss. If weekly loss exceeds 1 kg, add +100–150 kcal to prevent excessive deficit.
-- **HSPU volume focus:** Track reps and hold times weekly; aim for progressive increases in total volume (reps × load or hold duration).
+- **Deficit reminder:** If energy or lifts feel uncharacteristically poor, verify carb intake on training days; increase by +25-30 g before cutting volume.
+- **Scale tracking:** This is a fat-loss phase; expect ~0.5-0.75 kg/week loss. If weekly loss exceeds 1 kg, add +100-150 kcal.
+- **HSPU volume focus:** Track reps and hold times weekly; aim for progressive increases in total volume.
