@@ -32,7 +32,7 @@
 ### Metcon (AMRAP 20)
 - 10 burpee-to-pull-up-bar (jump touch only, no pull-up)
 - 8 deadlifts (60 kg)
-- 10 alternating dumbbell snatches (20 kg)
+- 10 alternating dumbbell snatches (22.5 kg)
 - 8 ring rows
 - Cardio modality: burpee-to-pull-up-bar only
 - Target: 5-7 rounds with smooth pacing; avoid redlining before minute 12
@@ -50,8 +50,8 @@
 - Supine 90/90 diaphragmatic breathing 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Deadlift working weight - _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / hold seconds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Deadlift working weight - 105 kg
+- Metcon: 5 rounds 18 reps
+- HSPU volume work: 6 reps / 10 hold seconds
+- Notes: After company summer event, it felt difficult to complete.
