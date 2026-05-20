@@ -51,8 +51,7 @@
 - Box breathing 4-2-6 x 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Front Squat working weight - _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / hold seconds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Front Squat working weight - 65 kg
+- Metcon: ~19 min
+- HSPU volume work: Done
