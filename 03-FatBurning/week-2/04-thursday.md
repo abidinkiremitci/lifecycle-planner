@@ -19,7 +19,7 @@
 - Wall calf stretch 45 s/side
 
 ### Score
-- Mode: Bike / Row
-- Duration: _____ min
-- Avg effort: RPE _____
-- Notes: _____
+- Mode: Bike
+- Duration: 80 min
+- Avg effort: RPE 4-5
+- Notes: Commute to the office and back home.

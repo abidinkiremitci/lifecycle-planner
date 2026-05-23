@@ -28,10 +28,10 @@
   - Ring dips x 8-10
 
 ### Metcon (EMOM 20)
-- Min 1: 40 double-unders (or 70 single-unders)
+- Min 1: 70 single-unders
 - Min 2: 10 alternating dumbbell clean and jerks (2 x 15-17.5 kg)
 - Min 3: 14 kettlebell swings (24 kg, Russian height)
-- Min 4: 12 ab-mat sit-ups
+- Min 4: 15 ab-mat sit-ups
 - Min 5: Rest
 - Cardio modality: jump rope only
 - Target: each work minute finishes in 40-45 s; if rest drops below 10 s, reduce DU to 30-35 or singles to 55-60
@@ -50,8 +50,7 @@
 - Easy nasal breathing 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Back Squat working weight - _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / hold seconds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Back Squat working weight - 90 kg
+- Metcon: max 40sec ON. Overal ~30sec ON
+- HSPU volume work: 5 x (5 kipping HSPU reps / 20 hold seconds)
