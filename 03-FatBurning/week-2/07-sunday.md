@@ -20,6 +20,6 @@
 - Standing hamstring stretch 45 s/side
 
 ### Score
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
-- Notes: _____
+- Distance: 6 km | Total time: 41 min 13 s
+- Avg pace: 6:57/km | RPE: 6-7
+- Notes: I'm not confortable while running and I'm a bit tired because I take care my toddler and he consumes lots of energy during day.
