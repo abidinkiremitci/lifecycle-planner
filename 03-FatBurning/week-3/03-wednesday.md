@@ -32,8 +32,8 @@
 ### Metcon (AMRAP 24)
 - 8 burpee box jump overs (24 in) — sole cardio modality
 - 12 deadlifts (65 kg)
-- 10 alternating KB snatches (24 kg)
-- 10 ring dips (banded if needed to keep unbroken)
+- 10 alternating DB snatches (22.5 kg)
+- 10 dips (banded if needed to keep unbroken)
 - Strategy: aim for consistent 3:30-4:00 rounds; protect the ring dips early — break 6+4 if needed from round 3.
 - Target: 5-7 rounds
 
@@ -50,8 +50,8 @@
 - Supine 90/90 diaphragmatic breathing 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Deadlift working weight — _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / holds
+- LIIT fat-burner: Completed 3 rounds
+- Deadlift working weight — 120 kg
+- Metcon: 5 rounds 20 reps
+- HSPU volume work: 24 reps / 80 seconds holds
 - Notes: _____
