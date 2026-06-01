@@ -21,6 +21,6 @@
 - Kneeling hip flexor stretch 45 s/side
 
 ### Score
-- Distance: 7,000 m | Total time: _____ min _____ s
-- Avg split: _____/500 m | Avg stroke rate: _____ spm
-- Notes: _____
+- Distance: 7,000 m | Total time: 29 min 58 s
+- Avg split: 2:08.4/500 m | Avg stroke rate: 17 spm
+- Notes: It felt great. I could maintain my pace around 2:05.
