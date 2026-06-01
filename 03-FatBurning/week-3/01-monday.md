@@ -29,7 +29,7 @@
 
 ### Metcon (For Time — cap 26 min)
 - 5 rounds:
-  - 10 devil press (2 × 20 kg DBs) — sole cardio modality
+  - 10 devil press (2 × 15 kg DBs) — sole cardio modality
   - 8 hang power cleans (45 kg)
   - 10 front-rack reverse lunges (5/side, 45 kg)
   - 12 ab-mat sit-ups
@@ -51,8 +51,7 @@
 - Box breathing 4-2-6 x 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Front Squat working weight — _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / holds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Front Squat working weight — 75 kg
+- Metcon: 5 rounds 10 reps
+- HSPU volume work: 16 reps / 40 holds
