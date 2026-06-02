@@ -26,12 +26,12 @@
   - Note: reduced volume vs W3 (4 sets vs 5) — focus on movement quality and speed out of the hole
 - Accessory superset × 3:
   - Strict pull-ups × 6–8
-  - Ring push-ups × 12
+  - Ring push-ups × 10
 
 ### Metcon (AMRAP 22)
 - 10 box jump overs (24 in, step down — no rebounding) — sole cardio modality
-- 8 hang power snatches (40 kg)
-- 10 ring push-ups
+- 8 hang power snatches (30kg)
+- 10 push-ups
 - 12 weighted sit-ups (6 kg smash ball)
 - Target: 5–6 complete rounds
 - Strategy: keep the hang power snatches technically clean — break 5+3 from round 4 if needed; ring push-ups and sit-ups should stay unbroken through the first 3 rounds
@@ -51,8 +51,8 @@
 - Box breathing 4-2-6 × 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Front Squat working weight — _____ kg
-- Metcon: _____ rounds + _____ reps
-- HSPU volume work: _____ reps / holds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Front Squat working weight — 65 kg
+- Metcon: 6 rounds 
+- HSPU volume work: 20 reps / 40 seconds holds / 40 pipe pushups
+- Notes: I decreased the power snatch weight since I haven't done it lately. metcon felt great. i could maintain my pace.
