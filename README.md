@@ -19,15 +19,15 @@ Each cycle has a defined focus, week-by-week load progression, and phase-adjuste
 
 ## Current Week
 
-- [03-FatBurning - Week 4](03-FatBurning/week-4)
-  - [Monday](03-FatBurning/week-4/01-monday.md)
-  - [Tuesday](03-FatBurning/week-4/02-tuesday.md)
-  - [Wednesday](03-FatBurning/week-4/03-wednesday.md)
-  - [Thursday](03-FatBurning/week-4/04-thursday.md)
-  - [Friday](03-FatBurning/week-4/05-friday.md)
-  - [Saturday](03-FatBurning/week-4/06-saturday.md)
-  - [Sunday](03-FatBurning/week-4/07-sunday.md)
-  - [Nutrition](03-FatBurning/week-4/nutrition.md)
+- [03-FatBurning - Week 5](03-FatBurning/week-5)
+  - [Monday](03-FatBurning/week-5/01-monday.md)
+  - [Tuesday](03-FatBurning/week-5/02-tuesday.md)
+  - [Wednesday](03-FatBurning/week-5/03-wednesday.md)
+  - [Thursday](03-FatBurning/week-5/04-thursday.md)
+  - [Friday](03-FatBurning/week-5/05-friday.md)
+  - [Saturday](03-FatBurning/week-5/06-saturday.md)
+  - [Sunday](03-FatBurning/week-5/07-sunday.md)
+  - [Nutrition](03-FatBurning/week-5/nutrition.md)
 
 ## Repository Structure
 
