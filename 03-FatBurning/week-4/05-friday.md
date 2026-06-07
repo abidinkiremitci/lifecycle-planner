@@ -29,7 +29,7 @@
   - Ring dips × 8–10
 
 ### Metcon (EMOM 20)
-- Min 1: 60 single-unders — sole cardio modality
+- Min 1: 12 cal row
 - Min 2: 6 power clean + push jerk (47.5 kg) — complete the complex unbroken each rep; if not finished by :55, reduce to 5 next round
 - Min 3: 12 KB sumo deadlift high pull (24 kg)
 - Min 4: 10 KB goblet squats (24 kg)
@@ -52,8 +52,7 @@
 - Easy nasal breathing 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Back Squat working weight — _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / holds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Back Squat working weight — 90 kg
+- Metcon: I could finished the all rounds in 40 seconds.
+- HSPU volume work: 40 kipping HSPU reps(12 reps with 5s descent) / 60 seconds HS holds
