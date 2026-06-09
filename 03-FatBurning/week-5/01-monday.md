@@ -29,8 +29,8 @@
   - Ring push-ups × 12
 
 ### Metcon (AMRAP 24)
-- 40 DU (alt: 80 SU) — sole cardio modality
-- 8 push jerks (52.5 kg)
+- 80 SU — sole cardio modality
+- 8 push jerks (40 kg)
 - 10 strict pull-ups (ring rows as scale)
 - 12 KBS (24 kg)
 - Target: 5–6 complete rounds
@@ -51,8 +51,8 @@
 - Box breathing 4-2-6 × 2 min
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Front Squat working weight — _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / holds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Front Squat working weight — 80 kg
+- Metcon: 6 rounds
+- HSPU volume work: 20 kipping HSPS 5sec descent + 40 sec hold+ 20 HSPU kipping reps / holds
+
