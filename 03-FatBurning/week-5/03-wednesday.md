@@ -32,9 +32,9 @@
 
 ### Metcon (5 RFT — target 22–25 min, cap 26)
 - 400 m run (alt: 500 m row OR 60 DU) — sole cardio modality
-- 10 power cleans (57.5 kg)
-- 12 ring dips
-- 12 weighted sit-ups (8 kg)
+- 10 power cleans (40 kg)
+- 12 dips
+- 12 weighted sit-ups (6 kg)
 - Target: ~4:20–5:00/round
 - Strategy: maintain a consistent run pace (conversational); power cleans at 8+2 from round 3 if needed; ring dips unbroken first 2 rounds then break as needed; sit-ups unbroken throughout
 
@@ -48,11 +48,10 @@
 - Couch stretch 2 × 45 s/side
 - Prone quad stretch 45 s/side
 - Pec doorway stretch 45 s/side
-- Supine 90/90 diaphragmatic breathing 2 min
+- Supine 90/90 diaphragmatic breathing 2 min32
 
 ### Score
-- LIIT fat-burner: Completed _____ rounds
-- Deadlift working weight — _____ kg
-- Metcon: _____
-- HSPU volume work: _____ reps / holds
-- Notes: _____
+- LIIT fat-burner: Completed 3 rounds
+- Deadlift working weight — 120 kg
+- Metcon: 25 min
+- HSPU volume work: 32 reps / 0 holds
