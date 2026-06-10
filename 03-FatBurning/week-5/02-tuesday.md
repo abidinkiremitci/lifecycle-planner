@@ -22,6 +22,6 @@
 - Kneeling hip flexor stretch 45 s/side
 
 ### Score
-- Interval splits: 1: ___/500m | 2: ___/500m | 3: ___/500m | 4: ___/500m | 5: ___/500m | 6: ___/500m
-- Avg split: _____/500 m | Avg stroke rate: _____ spm
-- Notes: _____
+- Interval splits: 1: 2:00/500m | 2: 2:03/500m | 3: 2:03/500m | 4: 2:00/500m | 5: 2:05/500m | 6: 2:05/500m
+- Avg split: 2:03/500 m | Avg stroke rate: 20 spm
+
