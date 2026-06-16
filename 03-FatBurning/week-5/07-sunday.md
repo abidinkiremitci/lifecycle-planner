@@ -21,6 +21,4 @@
 - Seated single-leg hamstring fold 45 s/side
 
 ### Score
-- Distance: 6 km | Total time: _____ min _____ s
-- Avg pace: _____/km | Avg HR: _____
-- Notes: _____
+I skipped this session.
