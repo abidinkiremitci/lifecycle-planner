@@ -52,8 +52,7 @@
 - Easy nasal breathing 2 min
 
 ### Score
-- LIIT fat-burner: _____
-- Back Squat working weight — _____ kg
-- Metcon: _____
-- HSPU max-rep set: _____ reps
-- Notes: _____
+- LIIT fat-burner: 3
+- Back Squat working weight — 95 kg
+- Metcon: 5 rounds
+- HSPU max-rep set: 21 reps
