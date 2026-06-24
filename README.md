@@ -145,3 +145,4 @@ See [equipment.md](equipment.md) for the full list. Key constraints:
 | 01 | DefiningLimits | 2026-03-16 → 2026-04-12 | Reactivation → baseline testing (3–5 RM lifts + 10 km benchmarks) |
 | 02 | StrengthCut | 2026-04-14 → 2026-05-11 | Strength retention under cut + aerobic progression |
 | 03 | FatBurning | 2026-05-11 → 2026-06-19 | Deficit phase with higher metcon output and endurance progression |
+| 04 | ConditioningCut | 2026-06-30 → 2026-07-26 | Continued deficit; HSPU + pull-up volume via rotated accessories; VO2 max focus via rowing intervals + running |
