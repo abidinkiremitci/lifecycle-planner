@@ -19,15 +19,15 @@ Each cycle has a defined focus, week-by-week load progression, and phase-adjuste
 
 ## Current Week
 
-- [03-FatBurning - Week 6](03-FatBurning/week-6)
-  - [Monday](03-FatBurning/week-6/01-monday.md)
-  - [Tuesday](03-FatBurning/week-6/02-tuesday.md)
-  - [Wednesday](03-FatBurning/week-6/03-wednesday.md)
-  - [Thursday](03-FatBurning/week-6/04-thursday.md)
-  - [Friday](03-FatBurning/week-6/05-friday.md)
-  - [Saturday](03-FatBurning/week-6/06-saturday.md)
-  - [Sunday](03-FatBurning/week-6/07-sunday.md)
-  - [Nutrition](03-FatBurning/week-6/nutrition.md)
+- [04-ConditioningCut - Week 1](04-ConditioningCut/week-1)
+  - [Monday](04-ConditioningCut/week-1/01-monday.md)
+  - [Tuesday](04-ConditioningCut/week-1/02-tuesday.md)
+  - [Wednesday](04-ConditioningCut/week-1/03-wednesday.md)
+  - [Thursday](04-ConditioningCut/week-1/04-thursday.md)
+  - [Friday](04-ConditioningCut/week-1/05-friday.md)
+  - [Saturday](04-ConditioningCut/week-1/06-saturday.md)
+  - [Sunday](04-ConditioningCut/week-1/07-sunday.md)
+  - [Nutrition](04-ConditioningCut/week-1/nutrition.md)
 
 ## Repository Structure
 
@@ -145,3 +145,4 @@ See [equipment.md](equipment.md) for the full list. Key constraints:
 | 01 | DefiningLimits | 2026-03-16 → 2026-04-12 | Reactivation → baseline testing (3–5 RM lifts + 10 km benchmarks) |
 | 02 | StrengthCut | 2026-04-14 → 2026-05-11 | Strength retention under cut + aerobic progression |
 | 03 | FatBurning | 2026-05-11 → 2026-06-19 | Deficit phase with higher metcon output and endurance progression |
+| 04 | ConditioningCut | 2026-06-30 → 2026-07-26 | Continued deficit; HSPU + pull-up volume via rotated accessories; VO2 max focus via rowing intervals + running |
