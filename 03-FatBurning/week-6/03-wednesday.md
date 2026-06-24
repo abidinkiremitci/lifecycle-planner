@@ -55,8 +55,7 @@
 - Supine 90/90 diaphragmatic breathing 2 min
 
 ### Score
-- LIIT fat-burner: _____
-- Deadlift working weight — _____ kg
-- Metcon: _____
-- HSPU balance work: _____
-- Notes: _____
+- LIIT fat-burner: 3 rounds
+- Deadlift working weight — 110 kg
+- Metcon: 5 rounds 16 reps
+- HSPU balance work: Done.
