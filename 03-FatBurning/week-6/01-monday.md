@@ -58,9 +58,8 @@
 - Box breathing 4-2-6 × 2 min
 
 ### Score
-- LIIT fat-burner: _____
-- Front Squat working weight — _____ kg
-- Threshold retest: _____
-- Pull-up setup / scaling note: _____
-- HSPU technique work: _____
-- Notes: _____
+- LIIT fat-burner: 3
+- Front Squat working weight — 70 kg
+- Threshold retest: 13:30
+- Pull-up setup / scaling note: no scaling.
+- HSPU technique work: done. I am still lack if stability for freestanding hspu.
