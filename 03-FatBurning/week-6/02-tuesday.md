@@ -26,6 +26,5 @@
 - Wall calf stretch 45 s/side
 
 ### Score
-- Distance: _____ m | Total time: _____ min _____ s
-- Avg split: _____/500 m | Avg stroke rate: _____ spm
-- Notes: _____
+- Distance: 8000m | Total time: 40 min 00 s
+- Avg split: 2:30/500 m | Avg stroke rate: 20 spm
