@@ -39,7 +39,7 @@
 
 ## Metcon (AMRAP 18 — target 5–6 rounds)
 
-- **30 double unders** (alt: 60 single unders) — sole cardio modality
+- **60 single unders** — sole cardio modality
 - **8 hang power cleans** @ 40 kg
 - **10 bar dips**
 - **12 AbMat sit-ups**
@@ -78,8 +78,7 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg × _____ sets × 5 reps
-- Pull-up: 3 × _____ reps (BW)
-- Metcon: _____ rounds + _____ reps
-- HSPU wall work: 3 rounds completed — hold quality notes: _____
-- Notes: _____
+- Front Squat working weight — 70 kg × 5 sets × 5 reps
+- Pull-up: 3 × 5 reps (BW)
+- Metcon: 6 rounds + 68 reps
+- HSPU wall work: 5 kipping HSPU with 5s descent + 20 sec hold x 3 rounds
