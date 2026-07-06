@@ -38,7 +38,7 @@
 ## Skill / Core (13 min)
 
 **Pressing — ring push-ups + seated DB press, no wall (8 min):**
-- **Ring push-ups: 3 × 10** (rings at ~knee height for moderate difficulty; raise rings toward waist if too hard)
+- **Bar push-ups: 3 × 10** (rings at ~knee height for moderate difficulty; raise rings toward waist if too hard)
   - Cues: keep rings turned out at bottom, turn in at top (false grip rotation), body rigid plank throughout
 - **Seated DB press: 3 × 8 @ 10 kg/hand**, rest 60 s
   - Cues: seated upright, press straight up, elbows just in front of the body at start, full lockout at top
@@ -63,8 +63,7 @@
 
 ## Score
 
-- Back Squat working weight — _____ kg × _____ sets × 5 reps
-- Chin-ups: 3 × _____ reps (BW)
-- Metcon: _____ rounds + _____ reps
-- Ring push-ups: 3 × 10 — ring height used: _____ | Seated DB press: _____ kg × 3 × 8
-- Notes: _____
+- Back Squat working weight — 90 kg × 5 sets × 5 reps
+- Chin-ups: 3 × 6 reps (BW)
+- Metcon: 6 rounds @18 minutes
+- Bar push-ups: 3 × 12 | Seated DB press: 12.5 kg × 3 × 8

@@ -63,8 +63,7 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg × _____ sets × 5 reps
-- DB single-arm row — _____ kg × 3 × 10/side
-- Metcon: _____ rounds + _____ reps
-- DB overhead press: _____ kg × 3 × 8 | Pike push-ups: 3 × 10 completed — Y/N
-- Notes: _____
+- Deadlift working weight — 110 kg × 5 sets × 5 reps
+- DB single-arm row — 22.5 kg × 3 × 10/side
+- Metcon: 5 rounds @ 16 min
+- DB overhead press: 12.5 kg × 3 × 8 | Pike push-ups: 3 × 10 completed — Y/N
