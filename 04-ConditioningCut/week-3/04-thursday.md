@@ -1,0 +1,29 @@
+# Day 4 — Thursday (2026-07-17)
+
+## Active Recovery — Bike Commute
+
+---
+
+### Session
+- **Bike commute to and from the office**
+- Effort: Zone 1–2 (RPE 3–4), conversational breathing only, no hard efforts or sprints
+- Cadence: smooth spin throughout; avoid grinding in a big gear
+- This is the only training stimulus for today — no gym session
+
+**Walking alternative (if no bike):** 30–40 min easy walk at a comfortable pace (RPE 3–4, fully conversational); flat or mildly hilly terrain; no incline hiking or power walking — keep it restorative
+
+**Recovery note:** With Wednesday's metcon removed this week, the cumulative load through Tue–Wed is lower than usual. Thursday's bike commute still plays an important role — stay easy. The body is preparing for Friday's full FF session.
+
+---
+
+### Optional Cool-down at Home (5 min)
+- 2 min easy walk after arriving home
+- Couch stretch 45 s/side
+- Wall calf stretch 45 s/side
+
+---
+
+### Score
+- Mode: Bike commute
+- Approx. duration: _____ min total (to + from)
+- Notes: _____
