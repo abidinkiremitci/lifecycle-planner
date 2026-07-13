@@ -35,8 +35,5 @@
 ---
 
 ## Score
-
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
-- Tempo section pace (final 1.5 km): _____/km
-- Notes: _____
+N/A
+- Notes: My body wasn't recovered and I had to clean my house. So I skip it.

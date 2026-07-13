@@ -77,8 +77,7 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg
-- DB single-arm row — _____ kg × 3 × 12/side
-- Metcon: _____
-- Seated DB press: _____ kg × 3 × 10 | Bar dips: 3 × 10 — Y/N
-- Notes: _____
+- Deadlift working weight — 120 kg
+- DB single-arm row — 22.5 kg × 3 × 12/side
+- Metcon: 6 rounds
+- Seated DB press: 12.5 kg × 3 × 10 | Bar dips: 3 × 10 — Y/N

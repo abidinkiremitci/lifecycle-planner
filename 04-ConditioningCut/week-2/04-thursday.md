@@ -21,5 +21,4 @@
 
 ### Score
 - Mode: Bike commute
-- Approx. duration: _____ min total (to + from)
-- Notes: _____
+- Approx. duration: 0 min total (to + from)

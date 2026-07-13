@@ -48,7 +48,7 @@ Choose one option based on energy and recovery coming off Monday:
 
 ## Score
 
-- Option taken: A / B
-- Distance: _____ m | Total time: _____ min _____ s
-- Avg split: _____/500 m | Avg stroke rate: _____ spm
-- Notes: _____
+- Option taken: B
+- Distance: 6000 m | Total time: 25 min 00 s
+- Avg split: 2:05/500 m | Avg stroke rate: 20 spm
+
