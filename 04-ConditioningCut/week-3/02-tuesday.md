@@ -49,7 +49,6 @@
 
 ## Score
 
-- Distance: _____ m | Total time: _____ min _____ s
-- Rep splits: _____  /  _____  /  _____  /  _____  / _____
-- Avg stroke rate: _____ spm
-- Notes: _____
+- Distance: 5000 m | Total time: 23 min 20 s
+- Rep splits: 2:19  /  2:19  /  2:20  /  2:21  / 2:21
+- Avg stroke rate: 19 spm

@@ -84,9 +84,8 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg
-- BB row load — _____ kg × _____ reps
-- Bulgarian split squat load — _____ kg/hand | Single-leg KB DL — _____ kg
-- DB press — _____ kg/hand × _____ sets
-- Pike push-ups — _____ reps × _____ sets
-- Notes: _____
+- Deadlift working weight — 130 kg
+- BB row load — 60 kg × 12 reps x 3 rounds
+- Bulgarian split squat load — 15 kg/hand | Single-leg KB DL — 20 kg
+- DB press — 12.5 kg/hand × 4 sets
+- Pike push-ups — 10 reps × 4 sets

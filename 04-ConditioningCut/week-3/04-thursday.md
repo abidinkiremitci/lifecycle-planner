@@ -24,6 +24,4 @@
 ---
 
 ### Score
-- Mode: Bike commute
-- Approx. duration: _____ min total (to + from)
-- Notes: _____
+60 min easy walk

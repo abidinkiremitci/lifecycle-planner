@@ -82,8 +82,7 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — BW + _____ kg; reps per set — ___ / ___ / ___ / ___
-- Metcon: _____ rounds + _____ reps
-- HSPU kipping reps per set — ___ / ___ / ___ / ___
-- Notes: _____
+- Front Squat working weight — 80 kg
+- Weighted pull-up load — BW + 5 kg; reps per set — 5 / 5 / 5 / 5
+- Metcon: 9 rounds
+- HSPU kipping reps per set — 5 / 5 / 5 / 5

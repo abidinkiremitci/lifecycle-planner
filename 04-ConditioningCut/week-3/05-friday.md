@@ -78,8 +78,7 @@
 
 ## Score
 
-- Back Squat working weight — _____ kg
-- Chin-up reps per set — ___ / ___ / ___ / ___
-- Metcon: _____ rounds + _____ reps
-- Ring push-ups — _____ reps × _____ sets | Seated DB press — _____ kg/hand
-- Notes: _____
+- Back Squat working weight — 100 kg
+- Chin-up reps per set — 6 / 6 / 6 / 6
+- Metcon: 9 rounds
+- push-ups — 12 reps × 4 sets | Seated DB press — 12.5 kg/hand

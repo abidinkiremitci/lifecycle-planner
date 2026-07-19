@@ -41,7 +41,6 @@
 
 ## Score
 
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
-- Tempo block splits: km 3 — _____ | km 4 — _____
-- Notes: _____
+- Distance: 6.33 km | Total time: 39 min 45 s
+- Avg pace: 6.17/km | RPE: 7
+- Tempo block splits: km 3 — 5:06 | km 4 — 5:27

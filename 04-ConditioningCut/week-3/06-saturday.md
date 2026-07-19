@@ -20,5 +20,4 @@
 
 ## Score
 
-- Mode: Rest / Easy walk
-- Notes: _____
+- Mode: 60 min Easy walk
