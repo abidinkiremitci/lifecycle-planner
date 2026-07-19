@@ -19,15 +19,15 @@ Each cycle has a defined focus, week-by-week load progression, and phase-adjuste
 
 ## Current Week
 
-- [04-ConditioningCut - Week 3](04-ConditioningCut/week-3)
-  - [Monday](04-ConditioningCut/week-3/01-monday.md)
-  - [Tuesday](04-ConditioningCut/week-3/02-tuesday.md)
-  - [Wednesday](04-ConditioningCut/week-3/03-wednesday.md)
-  - [Thursday](04-ConditioningCut/week-3/04-thursday.md)
-  - [Friday](04-ConditioningCut/week-3/05-friday.md)
-  - [Saturday](04-ConditioningCut/week-3/06-saturday.md)
-  - [Sunday](04-ConditioningCut/week-3/07-sunday.md)
-  - [Nutrition](04-ConditioningCut/week-3/nutrition.md)
+- [04-ConditioningCut - Week 4](04-ConditioningCut/week-4)
+  - [Monday](04-ConditioningCut/week-4/01-monday.md)
+  - [Tuesday](04-ConditioningCut/week-4/02-tuesday.md)
+  - [Wednesday](04-ConditioningCut/week-4/03-wednesday.md)
+  - [Thursday](04-ConditioningCut/week-4/04-thursday.md)
+  - [Friday](04-ConditioningCut/week-4/05-friday.md)
+  - [Saturday](04-ConditioningCut/week-4/06-saturday.md)
+  - [Sunday](04-ConditioningCut/week-4/07-sunday.md)
+  - [Nutrition](04-ConditioningCut/week-4/nutrition.md)
 
 ## Repository Structure
 

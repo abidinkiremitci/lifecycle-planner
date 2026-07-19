@@ -13,8 +13,8 @@
 |---|---|
 | Barbell + plates | Olympic barbell with bumper/iron plates |
 | Squat rack | Full-size rack |
-| Dumbbells | Adjustable or fixed set |
-| Kettlebells | Various weights |
+| Dumbbells | Adjustable or fixed set. Available weigths: 5 kg, 7.5 kg, 10 kg, 12.5 kg, 15 kg, 22.5 kg|
+| Kettlebells | Various weights. Available weigths: 12 kg, 16 kg, 20 kg, 24 kg |
 | Bench | Flat/incline |
 | Plyo box | For box jumps, step-ups, seated box jumps |
 | Concept2 rower | Indoor cardio option |
