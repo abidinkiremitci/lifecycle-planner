@@ -145,14 +145,14 @@ Generated week files follow the template defined in the cycle's `cycle-plan.md`.
 
 ### When asked to generate a week
 
-1. Confirm or ask: cycle name/number, week number, start date, any schedule changes, feedback from last week.
+1. Confirm or ask: cycle name/number, week number, start`xxdate, any schedule changes, feedback from last week.
 2. Produce the full markdown file following the template above.
 3. Save it to the correct path in the repository.
 
 ### When asked to review or adjust
-
+bbbbv`lnb  v
 - Read the existing week file.
-- Identify issues against the rules (e.g., two cardio modalities, missing HSPU progression, generic cool-down).
+- Identify issues against the rules (e.g., two cardio modalities, missing HSPU progression, generic cool-down).ddd``
 - Propose specific fixes with reasoning.
 
 ### When asked for a new cycle

@@ -84,8 +84,7 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ kg | Reps per set — _____ / _____ / _____ / _____
-- Metcon: _____ rounds + _____
-- HSPU: _____ sets × _____ reps | Lockout quality — _____
-- Notes: _____
+- Front Squat working weight — 85 kg
+- Weighted pull-up load — 7.5 kg | Reps per set — 5 / 5 / 5 / 5
+- Metcon: 10 rounds + 15
+- HSPU: 4 sets × 4 reps | Lockout quality — Great

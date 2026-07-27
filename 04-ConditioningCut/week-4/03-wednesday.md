@@ -77,8 +77,7 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg
-- BB row load — _____ kg × _____ reps
-- Metcon: _____ rounds + _____
-- DB press — _____ kg/hand × _____ sets | Pike push-ups — _____ reps × _____ sets
-- Notes: _____
+- Deadlift working weight — 135 kg
+- BB row load — 70 kg × 12 reps
+- Metcon: 11 rounds + 24 reps
+- DB press — 15 kg/hand × 4 sets | Pike push-ups — 12 reps × 4 sets

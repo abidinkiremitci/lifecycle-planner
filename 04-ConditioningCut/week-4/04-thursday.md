@@ -13,6 +13,4 @@
 - Wall calf stretch 45 s/side
 
 ### Score
-- Mode: Bike commute
-- Duration: _____ min
-- Notes: _____
+SKIPPED

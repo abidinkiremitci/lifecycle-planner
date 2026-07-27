@@ -36,10 +36,10 @@
 - Kneeling hip flexor stretch 45 s/side
 
 ### Score
-- Option chosen: A / B
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
-- Notes: _____
+- Option chosen: A 
+- Distance: 3 km | Total time: 16 min 15 s
+- Avg pace: 5:25 /km | RPE: 7-8
+- Notes: I had to stopped becuase I had to poo... :/
 
 ---
 

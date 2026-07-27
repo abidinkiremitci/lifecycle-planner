@@ -79,9 +79,4 @@
 ---
 
 ## Score
-
-- Back Squat working weight — _____ kg
-- Chin-up reps per set — _____ / _____ / _____
-- Metcon: _____ rounds + _____
-- HSPU cluster: _____ rounds completed | Ring push-ups — _____ reps/round | Pike push-ups — _____ reps/round | DB press — _____ kg/hand
-- Notes: _____
+SKIPPED

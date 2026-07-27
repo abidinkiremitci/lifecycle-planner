@@ -49,8 +49,7 @@
 
 ## Score
 
-- Rep 1: 2000 m | Time __:__ | Split _____/500 m
-- Rep 2: 2000 m | Time __:__ | Split _____/500 m
-- Rep 3: 2000 m | Time __:__ | Split _____/500 m
-- Avg stroke rate: _____ spm
-- Notes: _____
+- Rep 1: 2000 m | Time 8:40 | Split 2:10 /500 m
+- Rep 2: 2000 m | Time 8:56 | Split 2:14 /500 m
+- Rep 3: 2000 m | Time 9:00 | Split 2:15 /500 m
+- Avg stroke rate: 19 spm
