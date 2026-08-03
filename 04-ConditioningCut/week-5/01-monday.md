@@ -44,8 +44,8 @@
 ## Metcon (AMRAP 22 — target 9–12 rounds)
 
 - **10 burpees over barbell** — sole cardio modality
-- **8 push jerks** @ 52.5 kg
-- **12 KB goblet squats** @ 24 kg
+- **8 push jerks** @ 40 kg
+- **12 barbell front squats** @ 40 kg
 
 **Strategy:** Burpees over barbell at a steady rhythmic pace (~3–4 s per rep, 10 reps ≈ 35–40 s); step or jump over — do not sprint and gas the legs early. Push jerks: aggressive hip drive and punch overhead, arms fully locked out before receiving the bar back; 52.5 kg should feel powerful in rounds 1–5 and demanding by round 9. Goblet squats unbroken throughout — hold the KB by the horns at chest height, elbows inside the knees, full depth; use the descent as a brief recovery between jerks and the next set of burpees.
 
@@ -84,8 +84,8 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ kg
-- Metcon: _____
-- HSPU max-rep sets: Set 1 _____ | Set 2 _____ | Set 3 _____
-- Notes: _____
+- Front Squat working weight — 87 kg
+- Weighted pull-up load — 10 kg
+- Metcon: 10 rounds
+- HSPU max-rep sets: Set 1 10 | Set 2 10 | Set 3 10
+- Notes: I changed metcon into full barbell.
