@@ -50,9 +50,9 @@
 
 ## Score
 
-- Rep 1: 1500 m | Time _____ | Split _____/500 m
-- Rep 2: 1500 m | Time _____ | Split _____/500 m
-- Rep 3: 1500 m | Time _____ | Split _____/500 m
-- Rep 4: 1500 m | Time _____ | Split _____/500 m
-- Avg stroke rate: _____ spm
-- Notes: _____
+- Rep 1: 1500 m | Time 6:30 | Split 2:10 /500 m
+- Rep 2: 1500 m | Time 6:33 | Split 2:11 /500 m
+- Rep 3: 1500 m | Time 6:27 | Split 2:09 /500 m
+- Rep 4: 1500 m | Time 6:15 | Split 2:05 /500 m
+- Avg stroke rate: 19 spm
+- Notes: RPE 7

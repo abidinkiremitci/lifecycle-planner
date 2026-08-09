@@ -2,8 +2,8 @@
 
 ## Overview
 
-- **Focus:** Continue caloric deficit while rebuilding functional volume — progressive HSPU and pull-up loading via rotation of direct skill work and DB/BB accessories to manage ankle fatigue; improve VO2 max through structured rowing intervals and weekend running; no LIIT prefix sessions.
-- **Duration:** 4 weeks (2026-06-30 to 2026-07-26)
+- **Focus:** Continue caloric deficit while rebuilding functional volume — progressive HSPU and pull-up loading via rotation of direct skill work and DB/BB accessories to manage ankle fatigue; improve VO2 max through structured rowing intervals and weekend running; no LIIT prefix sessions. Weeks 7–8 pivot to spine-protect / upper-body-maintenance due to back injury, illness, and life load.
+- **Duration:** 8 weeks (2026-06-30 to 2026-08-23) — extended from planned 4 weeks; Weeks 5–6 repeated at Peak level; Weeks 7–8 are recovery-focused.
 - **Days per week:** 5
   - Mon / Wed / Fri: Functional fitness (strength + metcon + skill/core — 60–70 min, no LIIT)
   - Tue: Indoor rowing (30–60 min, VO2 focus — target 10 km sub-50 min)
@@ -15,7 +15,7 @@
 
 - **HSPU volume:** increase kipping HSPU max-rep set week-over-week (baseline: 21 reps W6C3); protect ankles by rotating direct wall work to one session per week only; build overhead pressing volume via DB/BB accessories on non-wall days
 - **Pull-up volume:** progressive weighted pull-ups (Mon) + horizontal pulling accessories (Wed/Fri DB/BB rows) to accumulate weekly pulling volume
-- **Lose weight:** ~2500 kcal flat daily target across all day types; sustain training quality within this constraint
+- **Lose weight:** ~2300 kcal on training days, ~2000 kcal on rest/recovery days; Weeks 7–8 reduced further due to back injury and lower training output
 - **Improve VO2 max:** rowing intervals scaling from steady base → 500 m-split work; running building from zone-2 → tempo intervals
 
 ---
@@ -28,6 +28,10 @@
 | 2 | 2026-07-07 | **Volume Build** — add reps on accessories; push metcon quality; increase row distance | ~70–75% | 20–22 min | Mon: 3×3 kipping HSPU; Wed: 3×10 DB press + dips; Fri: 4×8 pike PU | 3×6 pull-up Mon; 3×12 DB row Wed; 3×6 chin-up + ring row Fri | 6 km steady OR 4×1000 m @ ≤2:30/500 m | 5 km @ ~5:45/km; last 1.5 km tempo |
 | 3 | 2026-07-14 | **Push Output** — heavy barbell work; high-output metcons; peak pulling/pressing volume; row intervals | ~75–82% | 22–25 min | Mon: 4×3 kipping HSPU; Wed: 4×10 DB press heavy; Fri: max-volume HSPU attempt | 4×5 weighted (+5 kg) Mon; 3×12 BB row Wed; 4×6 chin-up Fri | 5×1000 m @ ≤2:26/500 m | 6 km @ ~5:20/km; 2 km tempo mid-run |
 | 4 | 2026-07-21 | **Consolidate** — hold intensity; accumulate total volume; finish cycle strong without testing | ~78–85% | 22–25 min | Mon: 4×4 kipping HSPU; Wed: seated DB press heavy; Fri: HSPU volume cluster | 4×5 weighted (+7.5 kg) Mon; 3×12 BB row Wed; 3×max-rep chin-up Fri | 3×2000 m @ ≤2:28/500 m | 6 km tempo @ ~5:15/km OR 4×1 km @ ~5:00/km |
+| 5 | 2026-07-28 | **Peak & Test** — max-rep HSPU test; heaviest barbell loads of cycle; benchmark banking | ~82–88% | 22 min | Mon: 3×max-rep kipping HSPU; Wed: seated DB press peak; Fri: ring push-ups cluster | 4×5 +10 kg Mon; 3×12 BB row Wed; 3×max-rep chin-up Fri | 5 km time-trial attempt | 6 km @ ~5:10/km |
+| 6 | 2026-08-03 | **Peak repeat** — same intent as W5; life/illness disrupted W5 completion | ~82–88% | 22 min | Same as W5 | Same as W5 | Same as W5 | Same as W5 |
+| 7 | 2026-08-10 | **Spine Protect / Upper Body Hold** — back injury; no spinal loading; maintain upper body strength; active recovery only | Upper body ~50% | 15–18 min | No wall HSPU — seated DB press + pike push-ups only | Strict BW pull-ups only; no weight added | Easy row (arms-drive focus, ≤2:45/500 m) if back allows; else mobility | 20–30 min easy walk only — no running |
+| 8 | 2026-08-17 | **Careful Return / Cycle Close** — slightly more volume; test light lower body if back ≥70% recovered; close cycle strong | Upper body ~55% | 15–18 min | Seated DB press volume + floor pike push-ups | Add light KB hold if comfortable; BW pull-ups | Easy-moderate row if back allows | 20–30 min easy walk |
 
 ---
 
@@ -87,28 +91,33 @@ When generating a new week, read this file alongside the Week-by-Week Progressio
 
 ### Cycle Nutrition Goal
 
-Flat ~2500 kcal daily across all day types (training and rest). This is a significant deficit from maintenance. Protein (185 g) and fat (75 g) are anchored; carbohydrates (~265 g) are the residual and apply equally every day.
+**Weeks 1–6 (active training):** ~2500 kcal flat daily — protein 185 g, fat 75 g, carbs ~265 g.
 
-**Optional micro-adjustment:** On the heaviest functional fitness days (Mon/Wed/Fri), add up to +30 g carbs pre-workout if energy is clearly compromised — do not cut this from another meal. Flag if two consecutive sessions feel flat at baseline carbs.
+**Weeks 7–8 (back injury / recovery):** Reduced targets — 2300 kcal on training/active days, 2000 kcal on rest days. Protein stays fixed at 185 g to support tissue repair. Fat and carbs are the levers.
 
-### Daily Targets
+**Optional micro-adjustment (W7–8 training days):** If two consecutive sessions feel unusually flat, add +50 kcal via carbs (not fat) and monitor for 48 h before adjusting further.
+
+### Daily Targets (Weeks 7–8)
 
 | Day Type | Days | Calories | Protein | Carbs | Fat |
 |---|---|---|---|---|---|
-| Functional Fitness | Mon / Wed / Fri | ~2500 kcal | ~185 g | ~265 g | ~75 g |
-| Rowing | Tue | ~2500 kcal | ~185 g | ~265 g | ~75 g |
-| Active Recovery (Bike commute) | Thu | ~2500 kcal | ~185 g | ~265 g | ~75 g |
-| Running | Sat or Sun | ~2500 kcal | ~185 g | ~265 g | ~75 g |
-| Rest | Non-training weekend day | ~2500 kcal | ~185 g | ~265 g | ~75 g |
+| Functional Fitness (upper body only) | Mon / Wed / Fri | ~2300 kcal | ~185 g | ~230 g | ~70 g |
+| Easy Row / Mobility | Tue | ~2300 kcal | ~185 g | ~230 g | ~70 g |
+| Active Recovery (Bike commute) | Thu | ~2000 kcal | ~185 g | ~180 g | ~60 g |
+| Easy Walk / Light activity | Sat or Sun | ~2000 kcal | ~185 g | ~180 g | ~60 g |
+| Rest | Non-active weekend day | ~2000 kcal | ~185 g | ~180 g | ~60 g |
 
 ### Phase Adjustments
 
-| Phase | Week | Adjustment | Notes |
+| Phase | Week | Calories | Notes |
 |---|---|---|---|
-| Reactivation | Week 1 | At baseline ~2500 | Body re-adapts to single-session days; monitor energy and mood |
-| Volume Build | Week 2 | At baseline ~2500 | Higher rep counts demand adequate carbs — hit the 265 g target consistently |
-| Push Output | Week 3 | At baseline ~2500 (+30 g carbs optional on FF days) | Heaviest training week; +30 g carb option activated if lifts or metcon quality drops |
-| Consolidate | Week 4 | At baseline ~2500 | Maintain consistency; no further cuts — reward effort with full macro hits |
+| Reactivation | Week 1 | ~2500 flat | Body re-adapts to single-session days; monitor energy and mood |
+| Volume Build | Week 2 | ~2500 flat | Higher rep counts demand adequate carbs — hit the 265 g target consistently |
+| Push Output | Week 3 | ~2500 flat (+30 g carbs optional on FF days) | Heaviest training week; +30 g carb option if lifts or metcon quality drops |
+| Consolidate | Week 4 | ~2500 flat | Maintain consistency; no further cuts |
+| Peak & Test | Weeks 5–6 | ~2500 flat | Fuel benchmark sessions fully; do not cut calories during peak weeks |
+| Spine Protect | Week 7 | 2300 training / 2000 rest | Back injury — lower output justifies lower intake; prioritise protein for healing |
+| Careful Return | Week 8 | 2300 training / 2000 rest | Same targets; add +50 kcal carbs on training days if energy clearly compromised |
 
 ### Timing Reminders
 
@@ -118,5 +127,7 @@ Flat ~2500 kcal daily across all day types (training and rest). This is a signif
 
 ### Monitoring
 
-- Expected weight loss: ~0.5–0.75 kg/week at 2500 kcal deficit. If loss exceeds 1 kg/week or two sessions feel unusually flat, add +100–150 kcal via carbs.
+- **Weeks 1–6:** Expected weight loss ~0.5–0.75 kg/week at 2500 kcal. If loss exceeds 1 kg/week or two sessions feel unusually flat, add +100–150 kcal via carbs.
+- **Weeks 7–8:** At 2300/2000 kcal with reduced training, expect ~0.75–1.0 kg/week loss. If back pain worsens or recovery feels stalled, raise training-day calories to 2400 kcal (add carbs only) — injury repair requires fuel.
 - Track HSPU reps and weighted pull-up loads weekly to confirm progression is happening — performance decay is the primary signal of under-fuelling.
+- **Back injury rule:** If any exercise causes sharp or radiating back pain, stop immediately. Bodyweight pull-ups and seated pressing are always safe fallbacks.

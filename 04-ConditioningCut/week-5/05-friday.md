@@ -81,8 +81,4 @@
 
 ## Score
 
-- Back Squat working weight — _____ kg
-- Chin-up max-rep sets: Set 1 _____ | Set 2 _____ | Set 3 _____
-- Metcon: _____
-- Ring push-ups / pike push-ups / DB press: _____ rounds completed
-- Notes: _____
+Skipped due to illness.

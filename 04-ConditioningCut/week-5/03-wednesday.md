@@ -99,10 +99,4 @@
 ---
 
 ## Score
-
-- Deadlift working weight — _____ kg
-- BB row load — _____ kg × _____ reps
-- DB press — _____ kg/hand × _____ sets | Pike push-ups — _____ reps × _____ sets
-- SL RDL: weaker side noted — _____
-- Y-T-W load — _____ kg
-- Notes: _____
+Skipped due to illness.
