@@ -79,9 +79,9 @@
 ---
 
 ## Score
-- Front Squat working weight — _____ kg × _____ reps
-- Weighted pull-up load — _____ kg
-- Metcon rounds + reps — _____
-- HSPU reps per set — _____
-- Back pain level (0–10 before / after) — _____ / _____
-- Notes: _____
+- Front Squat working weight —  4 x 4 @ 80 kg reps
+- Weighted pull-up load — 10 kg
+- Metcon rounds + reps — 9 rounds + 6 reps
+- HSPU reps per set — 5 x 5
+- Back pain level (0–10 before / after) — 0 / 0
+- Notes: N/A

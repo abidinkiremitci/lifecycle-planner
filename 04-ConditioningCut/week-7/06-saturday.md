@@ -17,6 +17,5 @@ Running is suspended this week due to back injury. Replace with a 20–30 min ea
 - Wall calf stretch 45 s/side
 
 ### Score
-- Duration: _____ min
-- Back pain level (0–10 before / after): _____ / _____
-- Notes: _____
+- Duration: 60 min
+- Back pain level (0–10 before / after): 1 / 1

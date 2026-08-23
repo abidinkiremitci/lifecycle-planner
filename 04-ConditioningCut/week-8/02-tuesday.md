@@ -32,7 +32,7 @@
 ---
 
 ## Score
-- Distance: _____ m | Total time: _____ min _____ s
-- Avg split: _____/500 m | Avg stroke rate: _____ spm
-- Back pain during row (0–10): _____
-- Notes: _____
+- Distance: 6000 m | Total time: 30 min 00 s
+- Avg split: 2:30/500 m | Avg stroke rate: 19 spm
+- Back pain during row (0–10): 0
+- Notes: N/A

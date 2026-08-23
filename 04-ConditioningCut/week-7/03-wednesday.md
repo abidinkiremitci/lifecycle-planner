@@ -69,9 +69,9 @@
 ---
 
 ## Score
-- DB row load — _____ kg × _____ reps/side
-- DB bench press load — _____ kg/hand × _____ reps
-- Metcon total time — _____
-- Pike push-up reps per set — _____
-- Back pain level (0–10 before / after) — _____ / _____
-- Notes: _____
+- DB row load — 22.5 kg × 36 reps/side
+- DB bench press load — 22.5 kg/hand × 36 reps
+- Metcon total time — N/A
+- Pike push-up reps per set — 3 x 10
+- Back pain level (0–10 before / after) — 3 / 4
+- Notes: I passed metcon adn extended mobility session.

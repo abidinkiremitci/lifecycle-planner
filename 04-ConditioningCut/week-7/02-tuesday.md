@@ -58,5 +58,4 @@ Rate back pain 0–10 right now:
 
 ### Score
 - Session: Mobility only
-- Back pain before / after (0–10): _____ / _____
-- Notes: _____
+- Back pain before / after (0–10): 3 / 3

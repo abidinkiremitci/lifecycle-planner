@@ -15,6 +15,6 @@
 
 ## Score
 - Mode: Bike commute
-- Duration: _____ min
-- Back pain level today (0–10): _____
-- Notes: _____
+- Duration: N/A
+- Back pain level today (0–10): 2
+- Notes: I did 30 min mobility session.

@@ -73,11 +73,11 @@
 ---
 
 ## Score
-- Back Squat working weight — _____ kg × _____ reps
-- Chin-up reps per set — _____
-- Metcon rounds + reps — _____
-- Ring push-up reps per set — _____
-- Back pain level (0–10 before / after) — _____ / _____
-- **Cycle-close back rating (0–10):** _____
-- **Overall cycle rating (1–5):** _____
-- Notes: _____
+- Back Squat working weight — 4 x 4 reps @ 80 kg 
+- Chin-up reps per set — 4 x 6
+- Metcon rounds + reps — 8 rounds + 11 reps
+- Ring push-up reps per set — N/A
+- Back pain level (0–10 before / after) — 0 / 0
+- **Cycle-close back rating (0–10):** 0
+- **Overall cycle rating (1–5):** 4
+- Notes: N/A

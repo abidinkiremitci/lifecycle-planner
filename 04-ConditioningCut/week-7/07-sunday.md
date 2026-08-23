@@ -10,5 +10,4 @@ Full rest. Prioritise sleep, hydration, and nutrition for back recovery.
 
 ### Score
 - Rest day — no session
-- Back pain level today (0–10): _____
-- Notes: _____
+- Back pain level today (0–10): 1

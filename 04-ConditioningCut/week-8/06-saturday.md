@@ -19,7 +19,4 @@ First run back after the back injury week. Keep it easy — this is a retest, no
 - Wall calf stretch 45 s/side
 
 ### Score
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____/km | RPE: _____
-- Back pain during run (0–10): _____
-- Notes: _____
+N/A

@@ -68,9 +68,8 @@
 ---
 
 ## Score
-- Chin-up sets completed — _____
-- Dip reps per set — _____
-- Metcon: _____ rounds + _____ reps
-- Ring push-up reps per set — _____
-- Back pain level (0–10 before / after) — _____ / _____
-- Notes: _____
+- Chin-up sets completed — 5 x 5
+- Dip reps per set — 3 x 10
+- Metcon: 6 rounds + 0 reps
+- push-up — 3 x 12
+- Back pain level (0–10 before / after) — 2 / 2

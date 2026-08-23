@@ -68,8 +68,8 @@
 ---
 
 ## Score
-- Deadlift working weight — _____ kg × _____ reps (or KB RDL fallback: _____)
-- DB row load — _____ kg × _____ reps/side
-- Metcon rounds + reps — _____
-- Back pain level (0–10 before / after) — _____ / _____
+- Deadlift working weight — 4 x 4 reps @ 125 kg (or KB RDL fallback: _____)
+- DB row load — 3 x 12 reps/side @ 22.5 kg
+- Metcon rounds + reps — 8 rounds 10 reps
+- Back pain level (0–10 before / after) — 0 / 0
 - Notes: _____

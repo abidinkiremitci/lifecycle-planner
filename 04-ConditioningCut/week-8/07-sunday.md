@@ -15,5 +15,5 @@ Full rest. Prioritise sleep, nutrition, and reflection on the cycle.
 
 ### Score
 - Rest day — no session
-- Back pain level today (0–10): _____
-- Notes: _____
+- Back pain level today (0–10): 0
+- Notes: N/A

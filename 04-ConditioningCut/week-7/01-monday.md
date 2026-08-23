@@ -76,9 +76,8 @@
 ---
 
 ## Score
-- Pull-up sets completed — _____
-- DB press load — _____ kg/hand
-- Metcon: _____ rounds + _____ reps
-- Pike push-up reps per set — _____
-- Back pain level (0–10 before / after session) — _____ / _____
-- Notes: _____
+- Pull-up sets completed — 5 x 5
+- DB press load — 15 kg/hand
+- Metcon: 5 rounds + 16 reps
+- Pike push-up reps per set — 0
+- Back pain level (0–10 before / after session) — 4 / 5
