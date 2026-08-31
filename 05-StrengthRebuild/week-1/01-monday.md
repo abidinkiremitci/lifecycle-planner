@@ -86,7 +86,7 @@
 
 ## Score
 
-- Front Squat working weight — 89 kg
+- Front Squat working weight — 80 kg
 - Weighted pull-up load — BW + §0 kg
 - Metcon: 11 rounds + 20 reps
 - HSPU: 3 sets × 8 reps / ankle soreness post-wall (0–10): 2
