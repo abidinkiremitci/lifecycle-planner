@@ -86,8 +86,7 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — BW + _____ kg
-- Metcon: _____ rounds + _____ reps
-- HSPU: _____ sets × _____ reps / ankle soreness post-wall (0–10): _____
-- Notes: _____
+- Front Squat working weight — 89 kg
+- Weighted pull-up load — BW + §0 kg
+- Metcon: 11 rounds + 20 reps
+- HSPU: 3 sets × 8 reps / ankle soreness post-wall (0–10): 2

@@ -38,6 +38,5 @@
 
 ## Score
 
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace: _____ /km | RPE: _____
-- Notes: _____
+- Distance: 6 km | Total time: 36 min 08 s
+- Avg pace: 6:00 /km | RPE: 6

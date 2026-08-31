@@ -83,8 +83,8 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg
-- DB row: 22.5 kg × 10 reps/side
-- Metcon: _____ rounds + _____ reps
-- DB overhead press: 15 kg × _____ reps (set 1 / set 2 / set 3)
-- Notes: _____
+- Deadlift working weight — 100 kg
+- DB row: 60 kg × 12 reps -> BB Row
+- Metcon: N/A
+- DB overhead press: 15 kg × 8/8/8 reps (set 1 / set 2 / set 3)
+- Notes: I skipped metcon for this session.
