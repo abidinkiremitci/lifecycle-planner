@@ -52,12 +52,13 @@
 - **30 double unders** — sole cardio modality
   - Alt: 60 single unders
   - Aim to complete 30 DU in ≤35 s; if DU are inconsistent, use a 1 double + 1 single rhythm or cap at 35 s of work
-- **10 hand-release push-ups**
-  - Chest and hips touch the floor simultaneously; fully release hands off the floor; press back to lockout; straight body throughout — no sagging hips
-- **8 hanging knee raises**
-  - Dead hang on pull-up bar; pull knees above the hip crease; 2 s controlled lower; strict — no kip or swing
+- **6 push press @ 40 kg** (barbell, from front rack)
+  - Dip-and-drive with legs; press to full lockout overhead; lower under control to front rack — not a strict press, use the leg drive
+  - After the final push press, hold the bar overhead to transition directly into the OHS
+- **5 overhead squats @ 40 kg** (same bar, taken from overhead)
+  - Wide snatch-grip; active shoulders pressed into the bar throughout; squat to full depth; keep the bar directly over mid-foot; stand to full lockout before the next rep
 
-**Strategy:** DU in one set or 2 × 15; hand-release push-ups unbroken early rounds, break to 6+4 later if needed; hanging knee raises at a controlled rhythm. RPE 7–8. Round time target ~1:50–2:00 min.
+**Strategy:** DU in one set or 2 × 15; push press unbroken — use the leg drive, not arm strength; transition the bar straight to OHS without racking; OHS unbroken at this load. RPE 7–8. Round time target ~1:50–2:00 min.
 
 ---
 

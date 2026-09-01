@@ -54,8 +54,7 @@
 ## Metcon (AMRAP 20 — target 9–11 rounds)
 
 - ⚠️ No squats, lunges, step-ups, thrusters, or goblet squats in this metcon (Front Squat day)
-- **200m run** — sole cardio modality
-  - Alt: 500m row if outdoor space is unavailable (or 5 × 40 m out-and-back shuttle run)
+- **250m row** — sole cardio modality
 - **8 ring dips**
   - Elbows track back (not flared), lower until upper arms are at or slightly below parallel, full lockout at top; upright torso
   - Alt: 8 dip-bar dips if rings are unavailable
@@ -95,8 +94,8 @@
 
 ## Score
 
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ kg (BW + _____)
-- Metcon: _____
-- HSPU: _____ reps / _____ sets / ankle soreness: _____ /10
-- Notes: _____
+- Front Squat working weight — 80-87-87-87 kg
+- Weighted pull-up load — 4x5 (BW + 7.5kg)
+- Metcon: 11 rounds
+- HSPU: 10 reps x 3 sets / ankle soreness: 3 /10
+- Notes: 500m row is meaning 2:00 in the clock. So it's not an alternative to 200m run. I changed it to 250m since the target was 10+ rounds: 1 min on cardio + 1 min on others.

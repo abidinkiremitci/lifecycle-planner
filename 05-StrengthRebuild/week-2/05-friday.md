@@ -12,7 +12,7 @@
 - W1 Back Squat actual: 90 kg (above 82.5 kg prescription); W2 load: ~95 kg at 70–75%
 - W1 chin-ups: 3×8 BW (above planned 3×5) — strong; W2 target per cycle plan is 3×6; log actual reps if higher
 - Metcon must not contain squats, lunges, step-ups, or thrusters (Back Squat day)
-- No movement in today's metcon repeats Monday's (run, ring dips, KB swings) or Wednesday's (DU, hand-release push-ups, hanging knee raises)
+- No movement in today's metcon repeats Monday's (run, ring dips, KB swings) or Wednesday's (DU, push press, OHS)
 - Nutrition: ~3400 kcal today (FF day)
 
 ---
@@ -47,13 +47,13 @@
 - ⚠️ No squats, lunges, step-ups, or thrusters in this metcon (Back Squat day)
 - **10 burpees** — sole cardio modality
   - Step-back option available (step feet out to plank, step back in); jump and clap overhead at the top
-- **8 push jerks @ 52.5 kg** (barbell)
-  - Dip shallow and drive with legs; punch the bar to full overhead lockout; receive with feet at hip-width; full arm lockout before lowering — use the leg drive, this is not a strict press
-  - Reduce to 50 kg if technique breaks down in rounds 1–3
+- **8 power cleans @ 50 kg** (from the floor)
+  - Hip-width stance, bar over mid-foot; pull the bar close to the body; explosive hip extension drives the pull; high elbows, receive in a quarter-squat front rack; stand to full extension; reset each rep from the floor
+  - Reduce to 50 kg if the catch position becomes inconsistent
 - **8 tuck-ups**
   - From lying: simultaneously draw knees to chest and chest to knees; touch hands to knees at the midline; 2 s controlled lower; pause and reset rather than using momentum if form slips
 
-**Strategy:** Burpees at a steady rhythm; push jerks unbroken in early rounds; tuck-ups continuous. RPE 7–8. Round time target ~2:00–2:10 min.
+**Strategy:** Burpees at a steady rhythm; power cleans unbroken in early rounds — reset fully from the floor each rep; tuck-ups continuous. RPE 7–8. Round time target ~2:00–2:10 min.
 
 ---
 

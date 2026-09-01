@@ -51,7 +51,7 @@
 
 ## Score
 
-- Option chosen: A / B
-- Distance: _____ m | Total time: _____ min _____ s
-- Avg split: _____ /500 m | Avg stroke rate: _____ spm
-- Notes: _____
+- Option chosen: B
+- Distance: 5000 m | Total time: 21 min 18 s
+- Avg split: 2:07 /500 m | Avg stroke rate: 17 spm
+- Notes: I had time and I did one more interval.
