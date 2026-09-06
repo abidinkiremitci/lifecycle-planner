@@ -49,7 +49,6 @@
 
 ## Score
 
-- Distance: _____ km | Total time: _____ min _____ s
-- Tempo km 1 split: _____ /km | Tempo km 2 split: _____ /km
-- Avg easy-km pace: _____ /km | RPE: _____
-- Notes: _____
+- Distance: 5 km | Total time: 29 min 12 s
+- Tempo km 1 split: 5:16 /km | Tempo km 2 split: 5:37 /km
+- Avg easy-km pace: 5:49 /km | RPE: 6
