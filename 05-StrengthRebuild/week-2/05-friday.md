@@ -85,8 +85,7 @@
 
 ## Score
 
-- Back Squat working weight — _____ kg
-- Chin-up reps — _____ reps × _____ sets (BW)
-- Metcon: _____
-- Ring push-ups: _____ reps × _____ sets
-- Notes: _____
+- Back Squat working weight — 95 kg
+- Chin-up reps — 6 reps × 5 sets (BW)
+- Metcon: 6 in 11 min. I didn’t have time to finish
+- Ring push-ups: 15 reps × 4 sets
