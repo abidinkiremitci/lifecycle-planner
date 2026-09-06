@@ -90,8 +90,8 @@
 
 ## Score
 
-- Deadlift working weight — _____ kg
-- DB row: _____ kg × _____ reps/side
-- Metcon: _____
-- DB overhead press: _____ kg × _____ reps (set 1 / set 2 / set 3)
-- Notes: _____
+- Deadlift working weight — 110 kg
+- DB row: 22.5 kg × 15 + 15 + 12 reps/side
+- Metcon: 12 rounds
+- DB overhead press: 15 kg × 10 reps (set 1 / set 2 / set 3)
+- Notes: single under scaling should be 1.5 times not 2 times.
