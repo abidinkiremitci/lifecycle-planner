@@ -48,10 +48,12 @@
   - Aim to complete 30 DUs in ≤35 s; if rhythm slips, use a 1 double + 1 single rhythm rather than grinding
 - **8 push press @ 45 kg**
   - Use leg drive to accelerate the bar overhead; keep the torso braced; lower under control to the front rack
+- **5 overhead squats @ 45 kg**
+  - Keep the bar locked overhead, brace the midline, and squat to full depth before standing to lockout
 - **10 hollow rocks**
   - Lower back stays flat, shoulders active, maintain a strong hollow position through the entire rep
 
-**Strategy:** Maintain a calm 30 DU rhythm, then push press as a full-body but clean set, and finish with hollow rocks without losing midline. RPE 7–8. Round time target ~1:45–2:00 min.
+**Strategy:** Maintain a calm 30 DU rhythm, then push press and overhead squats as a clean, linked sequence before finishing with hollow rocks. RPE 7–8. Round time target ~1:45–2:00 min.
 
 ---
 

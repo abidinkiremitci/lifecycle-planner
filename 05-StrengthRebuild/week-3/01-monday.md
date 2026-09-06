@@ -47,10 +47,10 @@
   - Alternate arms smoothly, keep the bell close to the body; finish each rep with a full lockout overhead
 - **8 ring dips**
   - Elbows track back, lower until upper arms are just below parallel, full lockout at the top
-- **6 push press @ 40 kg**
-  - Use leg drive to accelerate the bar overhead; lower under control to the shoulders before the next rep
+- **6 DB push press @ 2 × 15 kg**
+  - Use a smooth dip-and-drive with both dumbbells; keep the torso braced and finish with a full lockout overhead before lowering under control
 
-**Strategy:** 2–3 solid rounds at a sustainable pace, then settle into a steady rhythm. Devil press sits at the front of each round; ring dips and push press should stay unbroken early. RPE 7–8. Round time target ~1:45–2:00 min.
+**Strategy:** 2–3 solid rounds at a sustainable pace, then settle into a steady rhythm. Devil press sits at the front of each round; ring dips and DB push press should stay unbroken early. RPE 7–8. Round time target ~1:45–2:00 min.
 
 ---
 
