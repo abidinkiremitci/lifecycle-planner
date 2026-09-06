@@ -46,14 +46,12 @@
 - **30 double unders** — sole cardio modality
   - Alt: 60 single unders if DU rhythm breaks or the athlete needs a smoother pace
   - Aim to complete 30 DUs in ≤35 s; if rhythm slips, use a 1 double + 1 single rhythm rather than grinding
-- **8 push press @ 45 kg**
-  - Use leg drive to accelerate the bar overhead; keep the torso braced; lower under control to the front rack
-- **5 overhead squats @ 45 kg**
-  - Keep the bar locked overhead, brace the midline, and squat to full depth before standing to lockout
+- **8 power snatches @ 45 kg**
+  - Start from the floor or hang, full extension through the hips, then quickly drop under the bar to receive in a partial squat before standing tall
 - **10 hollow rocks**
   - Lower back stays flat, shoulders active, maintain a strong hollow position through the entire rep
 
-**Strategy:** Maintain a calm 30 DU rhythm, then push press and overhead squats as a clean, linked sequence before finishing with hollow rocks. RPE 7–8. Round time target ~1:45–2:00 min.
+**Strategy:** Maintain a calm 30 DU rhythm and then move through the power snatches with smooth, explosive turnover before finishing with hollow rocks. RPE 7–8. Round time target ~1:45–2:00 min.
 
 ---
 

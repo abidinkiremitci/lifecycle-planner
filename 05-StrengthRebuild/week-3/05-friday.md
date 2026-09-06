@@ -44,8 +44,6 @@
   - Goal is to finish each set without stopping the rhythm
 - **6 power clean + push jerk singles @ 50 kg**
   - Each rep is one power clean followed by one push jerk, resetting fully between reps; stand tall and lock out the jerk before the next rep
-- **8 ring rows**
-  - Tall body line, chest to the rings, controlled lower; keep the torso static and tight throughout
 
 **Strategy:** Burpees at a consistent pace; power clean + push jerk singles stay smooth and precise, one rep at a time. RPE 7–8. Round time target ~1:55–2:10 min.
 
