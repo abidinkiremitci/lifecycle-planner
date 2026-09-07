@@ -45,7 +45,7 @@
 - **10 devil presses** — sole cardio modality
   - 2 × 15 kg DBs or 2 × 12.5 kg DBs if shoulder fatigue is higher than expected
   - Alternate arms smoothly, keep the bell close to the body; finish each rep with a full lockout overhead
-- **8 ring dips**
+- **8 ring rows**
   - Elbows track back, lower until upper arms are just below parallel, full lockout at the top
 - **6 DB push press @ 2 × 15 kg**
   - Use a smooth dip-and-drive with both dumbbells; keep the torso braced and finish with a full lockout overhead before lowering under control
@@ -78,8 +78,8 @@
 ---
 
 ## Score
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ kg (BW + _____)
-- Metcon: _____
-- HSPU: _____ reps / _____ sets
-- Notes: _____
+- Front Squat working weight — 95 kg
+- Weighted pull-up load — 4 x 5 (BW + 7.5kg)
+- Metcon: 8 rounds
+- HSPU: 8 reps / 4 sets
+- Notes: Metcon was loading shoulders a lot. I changed ring dips to ribg rows.
