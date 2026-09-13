@@ -45,7 +45,5 @@
 ---
 
 ## Score
-- Distance: _____ km | Total time: _____ min _____ s
-- Tempo km 1 split: _____ /km | Tempo km 2 split: _____ /km
-- Avg pace: _____ /km | RPE: _____
-- Notes: _____
+- Distance: 6 km | Total time: 36 min 40 
+- Notes: Took this easy not to push my hip. It was hurting a little..
