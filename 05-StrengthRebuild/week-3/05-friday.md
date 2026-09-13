@@ -76,4 +76,4 @@
 - Chin-up reps — _____
 - Metcon: _____
 - Ring push-ups: _____ reps / _____ sets
-- Notes: _____
+- Notes: skipped due to busy days
