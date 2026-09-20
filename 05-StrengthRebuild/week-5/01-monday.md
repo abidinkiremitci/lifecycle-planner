@@ -11,7 +11,7 @@
 - **W4 feedback:** FS 97 kg, DL 120 kg, BS 100 kg — all clean. Hip soreness 5/10 on Thursday run. Rowing swapped to 6 km steady (2:10/500 m avg) due to time. Ring push-ups: 3×20. HSPU 4×10 complete.
 - **Calorie cap: 2600 kcal all days** (reduced from W4's 2700 kcal at athlete request)
 - **Running: easy zone 2 only — no intervals** (hip soreness and athlete preference to reduce impact load until bodyweight drops)
-- Front Squat steps to ~100–102 kg; W4 hit 97 kg clean at 4×4 → W5 target 4×3 at heavier load to protect form under peak loading
+- Front Squat holds at **97 kg** (same as W4) — athlete confirmed to keep this load; W5 focus is pull-up and HSPU peak, not pushing the squat
 - Weighted pull-up increases to BW+10 kg, reps drop to 4×4 (same volume pattern as W3→W4 transition, just heavier)
 - HSPU: 3×max-rep test today — kick up fresh and go all out; record each set separately
 - No squats, lunges, step-ups, thrusters, or wall balls in metcon (Front Squat day)
@@ -33,10 +33,9 @@
 ---
 
 ## Strength (20 min)
-- **Front Squat 4 × 3 @ ~100–102 kg (~82–84%)**
-  - Cues: elbows high and forward before the descent, big breath brace, knees out aggressively, lead with elbows on the drive — bar speed matters this week
+- **Front Squat 4 × 4 @ 97 kg (~78–80%)**
+  - Cues: elbows high and forward before the descent, big breath brace, knees out aggressively, lead with elbows on the drive — same weight as W4, focus on bar speed and crisp positions
   - Rest: 2:30 between sets
-  - Drop to 98 kg if the first set feels grindy; maintain bar speed over hitting a number
 - **Accessory — weighted strict pull-ups 4 × 4 @ BW + 10 kg**
   - Cues: dead hang start, full scapular depression, chin over the bar, 2 s controlled lower — no kip, rack bar only
   - Rest: 2:30 between sets (heavier load — take the full rest)

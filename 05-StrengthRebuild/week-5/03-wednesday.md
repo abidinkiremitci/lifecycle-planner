@@ -33,10 +33,10 @@
 ---
 
 ## Strength (20 min)
-- **Deadlift 4 × 3 @ ~122.5–125 kg (~82–85%)**
+- **Deadlift 4 × 3 @ 125 kg (~83–85%)**
   - Cues: hips back before initiating the pull, neutral spine throughout, big breath brace before each rep, drive the floor away, squeeze glutes hard at lockout — do not chase reps over position
   - Rest: 2:30 between sets
-  - If the pull feels heavy in the warm-up at 112.5 kg, stay at 120 kg and do 4×3 — better three clean reps than grinding a heavier miss
+  - If the pull feels heavy in the warm-up at 112.5 kg, do a fourth warm-up single at 115 kg before the working sets
 - **Accessory — BB bent-over row 4 × 10 @ 72.5–75 kg**
   - Cues: neutral spine, row through the elbows not the hands, bar traces close to the body, 2 s controlled lower — protect the lower back by keeping the hinge angle consistent and not rocking
   - Rest: 90 s between sets

@@ -29,10 +29,9 @@
 ---
 
 ## Strength (20 min)
-- **Back Squat 4 × 3 @ ~102.5–105 kg (~82–84%)**
+- **Back Squat 4 × 3 @ 105 kg (~84–86%)**
   - Cues: big breath brace before the descent, elbows up under the bar to support the shelf, knees track toes aggressively, control the lowering phase, drive powerfully out of the hole
   - Rest: 2:30 between sets
-  - Stay at 100 kg if 95 kg felt heavy in the warm-up; do not sacrifice position for a number
 - **Accessory — chin-ups 3 × max-rep @ BW**
   - Cues: dead hang start, chin clears the bar, 2 s controlled lower — strict, no kip
   - Rest: 2:30 between sets (max-rep effort — take full rest)
