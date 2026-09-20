@@ -51,7 +51,7 @@
   - Full lockout at top, chest to floor; break into 2 sets of 5 rather than grind if needed
 - **Min 3:** 5 hang power snatches @ 40 kg
   - From mid-thigh hang, explosive hip snap, high pull, lockout overhead; reset between reps
-- **Min 4:** 6 DB push press @ 2 × 15 kg
+- **Min 4:** 6 BB push press @ 40 kg
   - Dip-and-drive, press to full lockout overhead simultaneously, controlled lower
 - **Min 5:** 8 ring rows
   - Body horizontal; elbows drive back, chest to rings, full lockout at the bottom
@@ -85,8 +85,7 @@
 ---
 
 ## Score
-- Deadlift working weight — _____ kg
-- BB row weight — _____ kg × _____ reps/side
-- Metcon: completed / missed reps (note any station) _____
-- DB overhead press: _____ kg × _____ reps
-- Notes: _____
+- Deadlift working weight — 120 kg
+- BB row weight — 70 kg × 36 reps
+- Metcon: completed
+- DB overhead press: 15 kg × 40 reps
