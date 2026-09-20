@@ -48,7 +48,7 @@
 ---
 
 ## Score
-- Distance: _____ km | Total time: _____ min _____ s
-- Avg pace (tempo segments): _____/km | RPE: _____
-- Hip soreness rating (0–10): _____
-- Notes: _____
+- Distance: 7 km | Total time: 42:00
+- Avg pace (tempo segments): 6:00/km | RPE: 7
+- Hip soreness rating (0–10): 5
+- Notes: I don't want to push running pace untill I loose some weigth. running with 95kg body requires lots of energy.
