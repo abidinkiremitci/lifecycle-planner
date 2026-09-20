@@ -1,4 +1,4 @@
-# Day 2 — Tuesday (2026-09-15)
+k# Day 2 — Tuesday (2026-09-15)
 
 ## Session Overview
 - Cycle: 05-StrengthRebuild — Week 4
@@ -46,8 +46,6 @@
 ---
 
 ## Score
-- Piece 1 — Distance: 2000 m | Split: _____/500 m | SR: _____ spm
-- Piece 2 — Distance: 2000 m | Split: _____/500 m | SR: _____ spm
-- Piece 3 — Distance: 2000 m | Split: _____/500 m | SR: _____ spm
-- Total time (work only): _____ min _____ s
-- Notes: _____
+- 6km, average pace: 2:10
+- Total time (work only): 26:07
+- Notes: My day was full with meetings. I had 45 min off and changed the workout single distance with steady pace.
