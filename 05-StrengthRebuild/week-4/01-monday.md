@@ -82,8 +82,8 @@
 ---
 
 ## Score
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ (BW + 7.5 kg × _____ reps)
-- Metcon: _____ min _____ s (total time for 5 rounds)
-- HSPU: _____ reps / _____ sets
-- Notes: _____
+- Front Squat working weight — 97 kg
+- Weighted pull-up load — 4 x (BW + 7.5 kg) × 5 rep
+- Metcon: 14 min 30s (total time for 5 rounds)
+- HSPU: 4 x 10 = 40 reps
+- Notes: Metcon felt easy. I did hspu with core like 4 rounds not for time for quality :)
