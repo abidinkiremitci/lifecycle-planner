@@ -88,8 +88,7 @@
 ---
 
 ## Score
-- Front Squat working weight — _____ kg
-- Weighted pull-up load — _____ kg (BW+_____)
-- Metcon: _____
-- HSPU max-rep sets: set 1 _____ / set 2 _____ / set 3 _____ reps
-- Notes: _____
+- Front Squat working weight — 97 kg
+- Weighted pull-up load — 4 x 4 (BW+10kg)
+- Metcon: 12:39
+- HSPU max-rep sets: set 1 13 / set 2 12 / set 3 12 reps
