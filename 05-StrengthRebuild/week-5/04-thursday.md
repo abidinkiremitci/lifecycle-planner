@@ -1,4 +1,4 @@
-# Day 4 — Thursday (2026-09-23)
+## Day 4 — Thursday (2026-09-23)
 
 ## Session Overview
 - Cycle: 05-StrengthRebuild — Week 5
@@ -48,4 +48,4 @@
 - Distance: _____ km | Total time: _____ min _____ s
 - Avg pace: _____/km | RPE: _____
 - Hip soreness rating (0–10): _____
-- Notes: _____
+- Notes: I skipped this session.
