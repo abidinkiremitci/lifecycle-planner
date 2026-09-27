@@ -19,15 +19,15 @@ Each cycle has a defined focus, week-by-week load progression, and phase-adjuste
 
 ## Current Week
 
-- [05-StrengthRebuild - Week 5](05-StrengthRebuild/week-5)
-  - [Monday](05-StrengthRebuild/week-5/01-monday.md)
-  - [Tuesday](05-StrengthRebuild/week-5/02-tuesday.md)
-  - [Wednesday](05-StrengthRebuild/week-5/03-wednesday.md)
-  - [Thursday](05-StrengthRebuild/week-5/04-thursday.md)
-  - [Friday](05-StrengthRebuild/week-5/05-friday.md)
-  - [Saturday](05-StrengthRebuild/week-5/06-saturday.md)
-  - [Sunday](05-StrengthRebuild/week-5/07-sunday.md)
-  - [Nutrition](05-StrengthRebuild/week-5/nutrition.md)
+- [05-StrengthRebuild - Week 6](05-StrengthRebuild/week-6)
+  - [Monday](05-StrengthRebuild/week-6/01-monday.md)
+  - [Tuesday](05-StrengthRebuild/week-6/02-tuesday.md)
+  - [Wednesday](05-StrengthRebuild/week-6/03-wednesday.md)
+  - [Thursday](05-StrengthRebuild/week-6/04-thursday.md)
+  - [Friday](05-StrengthRebuild/week-6/05-friday.md)
+  - [Saturday](05-StrengthRebuild/week-6/06-saturday.md)
+  - [Sunday](05-StrengthRebuild/week-6/07-sunday.md)
+  - [Nutrition](05-StrengthRebuild/week-6/nutrition.md)
 
 ## Repository Structure
 
