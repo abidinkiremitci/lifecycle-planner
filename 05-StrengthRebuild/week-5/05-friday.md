@@ -80,8 +80,7 @@
 ---
 
 ## Score
-- Back Squat working weight — _____ kg
-- Chin-up max-rep sets — _____ / _____ / _____ (total: _____)
-- Metcon: _____ rounds + _____ reps
-- Ring push-ups (4 sets): _____ / _____ / _____ / _____ (total: _____)
-- Notes: _____
+- Back Squat working weight — 105 kg
+- Chin-up max-rep sets — 7 / 7 / 6 (total: 20)
+- Metcon: N/A
+- Ring push-ups (4 sets): N/A
